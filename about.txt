@@ -1,0 +1,2 @@
+print("My name is faris , i from makkah i have 23 y old ")
+
